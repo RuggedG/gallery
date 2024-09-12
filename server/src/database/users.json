@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Jon Stewart Doe",
+    "email": "test@example.us",
+    "password": "$2b$10$BSDys/CvliGXLnKHT46dquedyabLglnX42hWz6wiayJJmw/8Dh9D.",
+    "id": "f787eadb-3069-4278-9075-5587cd8c24fd"
+  },
+  {
+    "name": "João Souza Silva",
+    "email": "teste@exemplo.us",
+    "password": "$2b$10$uAfduAxDgdkFZ7vMECQ/oexGGFMQ1cW4SDDoHTEXfma20gLKLrZY6",
+    "id": "634b585d-54b6-4702-bce7-d46c94e25234"
+  },
+  {
+    "name": "Jane Shay Doe",
+    "email": "jane1@test.com",
+    "password": "$2b$10$9f6KEjf5FsMsM2PzlXEuT.RO0CYnvfhifRbkM7gK7NSp4zgVprSA6",
+    "id": "6c5c0ecc-c1bf-431e-be7d-1586857bff17"
+  },
+  {
+    "name": "Bamigbola Gabriel ",
+    "email": "bamser200@gmail.com",
+    "password": "$2b$10$lHMXdokoThWKw7mQ8fwZ7OW6y.9jabTBq.VqFJH4mkBExR2TnuOfS",
+    "id": "978bd9b3-59f9-452d-b35b-204e93178732"
+  }
+]

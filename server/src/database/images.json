@@ -1,0 +1,83 @@
+[
+  {
+    "id": "3feacc9c-b6c9-4379-ab5e-9457b273d33c",
+    "name": "Arcane",
+    "description": "",
+    "user_id": "f787eadb-3069-4278-9075-5587cd8c24fd",
+    "imageUrl": "http://localhost:5000/api/v1/images/5cb30fe8-407d-49ef-bd23-13c4121bc920.jpeg",
+    "isPublic": true,
+    "created_at": "2024-09-08T11:27:25.858Z"
+  },
+  {
+    "id": "8f1bf85b-85e2-474b-bcd5-d0b2b61ab8f4",
+    "name": "Jinx",
+    "description": "",
+    "user_id": "f787eadb-3069-4278-9075-5587cd8c24fd",
+    "imageUrl": "http://localhost:5000/api/v1/images/d16354d0-bacb-41e0-8119-5640fba40169.jpeg",
+    "isPublic": false,
+    "created_at": "2024-09-08T11:44:02.416Z"
+  },
+  {
+    "id": "744c11d5-a4e2-4e61-ada4-19183d6431c0",
+    "name": "the order",
+    "description": "",
+    "user_id": "f787eadb-3069-4278-9075-5587cd8c24fd",
+    "imageUrl": "http://localhost:5000/api/v1/images/b45a5a08-d15c-4e67-92a0-76545f443fd1.jpeg",
+    "isPublic": true,
+    "created_at": "2024-09-08T11:49:02.196Z"
+  },
+  {
+    "id": "a8313f6f-c0d2-4aa9-a20e-4009a66f894c",
+    "name": "Arcane Jinx",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia libero nec mi suscipit bibendum. Donec non ex at nisi tincidunt vulputate. Fusce interdum risus sit amet elit dictum pulvinar. Mauris iaculis dictum sagittis. In porttitor lacinia odio vel semper. Nunc dignissim in risus quis convallis. Phasellus purus nisl, fringilla in metus eu, interdum volutpat ante. Phasellus vel porttitor turpis, aliquet maximus velit. Integer vitae consequat diam, mollis commodo sem. In vel eros mattis, ullamcorper orci id, eleifend justo. Aenean vel nunc non neque blandit volutpat at cursus diam. Mauris est arcu, tristique sit amet sem in, tempus hendrerit ex. In dictum felis scelerisque urna rutrum lacinia. In porttitor scelerisque nulla id bibendum.",
+    "user_id": "f787eadb-3069-4278-9075-5587cd8c24fd",
+    "imageUrl": "http://localhost:5000/api/v1/images/72ffa28b-e30d-4ea5-9980-35323221f75a.jpeg",
+    "isPublic": true,
+    "created_at": "2024-09-08T13:04:37.642Z"
+  },
+  {
+    "id": "9c8a25a8-bd54-497b-94a1-745fbac67a2a",
+    "name": "Building",
+    "description": "Curabitur ornare tristique ipsum nec mattis. Aenean lobortis purus et velit euismod, eu volutpat orci vulputate. In hac habitasse platea dictumst. Etiam iaculis scelerisque enim, eu commodo ante suscipit eu. Morbi mollis orci eget ipsum dignissim mollis. Etiam iaculis elementum vulputate. Vivamus elit sapien, blandit id pharetra sed, scelerisque sed nunc. Praesent eu risus libero. Integer sollicitudin hendrerit dui ac pulvinar. Aenean interdum sodales libero quis euismod. Curabitur ac nulla vestibulum, vehicula mi ac, gravida tortor. Maecenas ipsum leo, elementum sed massa aliquam, aliquet sodales justo.",
+    "user_id": "634b585d-54b6-4702-bce7-d46c94e25234",
+    "imageUrl": "http://localhost:5000/api/v1/images/c655ff67-f3b8-466b-922a-ea4691fb9fbf.jpeg",
+    "isPublic": true,
+    "created_at": "2024-09-08T13:30:45.555Z"
+  },
+  {
+    "id": "aa424693-efdc-4e7c-aa5c-fab2c9ebd99d",
+    "name": "Peakpex",
+    "description": "",
+    "user_id": "634b585d-54b6-4702-bce7-d46c94e25234",
+    "imageUrl": "http://localhost:5000/api/v1/images/de21436f-a4ce-4be7-8d0c-0e85ffb44a25.jpeg",
+    "isPublic": true,
+    "created_at": "2024-09-08T14:42:25.993Z"
+  },
+  {
+    "id": "81bef207-a59c-4a68-8044-d60bd61f2649",
+    "name": "Idea",
+    "description": "",
+    "user_id": "634b585d-54b6-4702-bce7-d46c94e25234",
+    "imageUrl": "http://localhost:5000/api/v1/images/ab97d54a-3e14-46bc-8b0b-6164c6cb05dd.jpeg",
+    "isPublic": true,
+    "created_at": "2024-09-08T14:55:16.016Z"
+  },
+  {
+    "id": "73ec4074-9bb4-4672-bf3b-7daca3f2a16d",
+    "name": "Bon fire",
+    "description": "A roaring bonfire casts a warm, golden glow against the encroaching twilight. Sparks dance upward, merging with the darkening sky, while shadows flicker on the faces of onlookers huddled around. The crackling wood sends occasional bursts of light, creating a cozy, inviting ambiance that contrasts with the cool, crisp night air.",
+    "user_id": "6c5c0ecc-c1bf-431e-be7d-1586857bff17",
+    "imageUrl": "http://localhost:5000/api/v1/images/baae4991-af3a-4a77-9e05-2cf69bfd9609.png",
+    "isPublic": true,
+    "created_at": "2024-09-09T18:17:33.832Z"
+  },
+  {
+    "id": "e6fcca5c-ad52-4aa8-9379-dd99d14539ba",
+    "name": "My research",
+    "description": "",
+    "user_id": "6c5c0ecc-c1bf-431e-be7d-1586857bff17",
+    "imageUrl": "http://localhost:5000/api/v1/images/d909cdef-0ad4-4af1-a5e9-5931701b396f.png",
+    "isPublic": false,
+    "created_at": "2024-09-09T18:18:34.010Z"
+  }
+]
