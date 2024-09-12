@@ -35,8 +35,8 @@
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/johndoe/andgallery.git
-cd andgallery
+git clone https://github.com/RuggedG/gallery
+cd gallery
 ```
 
 ### Setting Up the Backend
